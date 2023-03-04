@@ -1,10 +1,17 @@
 # group2netPlix
-## We could add the functions we wanna do and who wanna do it here:
 
 ## Functions:
-### Register: 
-### Login: 
-### Adding and modifying movie infomation:
-### Adding and modifying user infomation(I think we could do it, right?):
-### Watch history:
-### Adding movie to favarite List:
+### Register
+### Login
+### Adding and modifying movie infomation
+### Adding and modifying user infomation
+### Watch history
+### Adding movie to favorite List
+### Check user's favorite List
+### Check user's watch history
+### Simulate streaming moving by multi-thread counting down, space to pause and resume
+### Sorting movie by released year
+### Sorting movie by rating
+### Searching by any movie field information
+### 
+
